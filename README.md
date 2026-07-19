@@ -50,13 +50,8 @@ Unplanned equipment downtime is one of the costliest problems in manufacturing o
 
 
 \*\*Interpretation:\*\* Sensors that trend consistently over an engine's lifecycle carry the real predictive signal for failure timing — a finding consistent with how condition-based maintenance programs prioritize monitoring in practice.
-
-!\[Feature Importance](outputs/feature\_importance.png)
-
-&#x20;  !\[Predicted vs Actual RUL](outputs/predicted\_vs\_actual.png)
-
-
-
+![Feature Importance](outputs/feature_importance.png)
+![Predicted vs Actual RUL](outputs/predicted_vs_actual.png)
 ## Why This Project
 
 This mirrors real-world preventive maintenance scheduling work — predicting when equipment needs servicing before failure, rather than reacting after the fact. It applies a Six Sigma "reduce variation, prevent defects" mindset to a data science workflow.
