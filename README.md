@@ -21,9 +21,6 @@ Unplanned equipment downtime is one of the costliest problems in manufacturing o
 
 ## Results
 
-\## Results
-
-
 
 | Model | RMSE | MAE |
 
